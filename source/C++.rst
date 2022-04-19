@@ -58,5 +58,5 @@ Tutorials
 
 If you want to learn more on how to use the IMU, please check out the tutorial below:
 
-* Accessing IMU data with Nano RP2040 Connect /tutorials/nano-rp2040-connect/rp2040-imu-basics
-* Using the IMU Machine Learning Core Features /tutorials/nano-rp2040-connect/rp2040-imu-advanced
+* Accessing IMU data with Nano RP2040 Connect https://docs.arduino.cc/tutorials/nano-rp2040-connect/rp2040-imu-basics
+* Using the IMU Machine Learning Core Features https://docs.arduino.cc/tutorials/nano-rp2040-connect/rp2040-imu-advanced
